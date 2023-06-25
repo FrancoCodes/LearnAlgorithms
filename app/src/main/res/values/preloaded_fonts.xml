@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/advent_pro_semibold</item>
+        <item>@font/aldrich</item>
+        <item>@font/arbutus</item>
+        <item>@font/audiowide</item>
+        <item>@font/bangers</item>
+        <item>@font/candal</item>
+        <item>@font/cutive</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/frank_ruhl_libre_bold</item>
+        <item>@font/galindo</item>
+        <item>@font/martel_bold</item>
+        <item>@font/piedra</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/poppins_medium</item>
+        <item>@font/poppins_thin</item>
+        <item>@font/seymour_one</item>
+    </array>
+</resources>

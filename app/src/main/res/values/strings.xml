@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Learn Algorithms</string>
+
+
+    //Headings
+    <string name="heading_one">User Friendly Experience</string>
+    <string name="heading_two">Fast and Easy</string>
+    <string name="heading_three">Hands-on Learning </string>
+    <string name="heading_fourth">Options Aplenty</string>
+
+    //Description
+    <string name="desc_one">Learn Algorithms through practical Applications</string>
+    <string name="desc_two">Visual queues and descriptions quickly inform users </string>
+    <string name="desc_three">Interactive algorithms provide entertaining learning experience</string>
+    <string name="desc_fourth">Easy to use application offers many different algorithms </string>
+
+</resources>
